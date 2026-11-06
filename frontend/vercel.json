@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://krunal-study-hub.onrender.com/api/:path*"
+    }
+  ]
+}
